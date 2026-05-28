@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quem e Neymar Jr?</title>
+  </head>
+  <body>
+    
+<h1>NEYMAR JR</h1>
+<h2>QUEM FOI NEYMAR JR?</h3>
+<p>Neymar Jr. é um futebolista brasileiro nascido em 5 de fevereiro de 1992, em Mogi das Cruzes, São Paulo. Ele é conhecido por sua habilidade técnica e criatividade, tendo se destacado em clubes como o Santos, onde se tornou uma promessa, e o Barcelona, onde conquistou a Tríplice Coroa com Messi e Suárez. Em 2017, Neymar se transferiu para o Paris Saint-Germain por 222 milhões de euros, tornando-se a transferência mais cara da história do futebol. Atualmente, ele atua pelo Santos e é uma das figuras mais influentes do futebol mundial.</p>
+
+<h2>times que ele participou:</h2>
+          <ul>
+              <li>Santos: Jogou 225 jogos e marcou 136 gols, conquistando seis títulos oficiais.</li>
+              <li>Barcelona: Participou de 186 jogos e marcou 105 gols, formando um trio de ataque com Lionel Messi e Luis Suárez.</li>
+              <li>Paris Saint-Germain (PSG): Jogou 186 jogos e marcou 105 gols, sendo uma das estrelas do time. </li>
+              <li>Al Hilal: Jogou 186 jogos e marcou 105 gols, retornando ao clube após sua transferência. </li>
+          </ul>
+<h2>ESTASTISTICAS::</h2>
+          <ol>
+              <li>709 jogos</li>
+              <li>437 gols</li>
+              <li>250 assistências</li>
+          </ol>
+          
+ <a href="https://youtu.be/niMzTo1jHPA?si=P_T-xW9VpieHLZll">
+ <button>Ir para o youtube</button>
+  </a>
+  <hr>
+  <img src="https://i.ytimg.com/vi/iJEeBRNhq-I/maxresdefault.jpg"width="400">
+
+  </body>
+</html>
